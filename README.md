@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lucky+Purswani!;Frontend+Developer+💻;MERN+Stack+Explorer+🌐;Lifelong+Learner+📚)](https://git.io/typing-svg)
+
+
 # 💫 About Me:
 Hi, I'm Lucky ✨<br><br>💻 B.Tech IT student at LD College of Engineering (LDCE)<br>🌐 Skilled in Web Development (MERN Stack)<br>📚 Currently focusing on Data Structures & Algorithms and Core CS Subjects<br>📂 Check out my projects on GitHub<br>📸 Follow me on Instagram<br>💼 Connect with me on LinkedIn
 
