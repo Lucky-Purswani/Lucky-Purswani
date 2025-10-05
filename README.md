@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lucky+Purswani!;Frontend+Developer+💻;MERN+Stack+Explorer+🌐;Lifelong+Learner+📚)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lucky+Purswani!;MERN+Stack+Developer+🌐;Lifelong+Learner+📚)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
