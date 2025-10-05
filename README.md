@@ -19,7 +19,7 @@ Hi, I'm Lucky ✨<br><br>💻 B.Tech IT student at LD College of Engineering (LD
 [![](https://visitcount.itsvg.in/api?id=Lucky-Purswani&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 🐍 GitHub Contribution Snake
-![snake gif](https://raw.githubusercontent.com/Lucky-Purswani/Lucky-Purswani/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Lucky-Purswani/Lucky-Purswani/output/snake.svg)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
