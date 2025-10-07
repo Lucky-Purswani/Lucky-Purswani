@@ -40,7 +40,7 @@
 
 # 🐍 GitHub Contribution
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lucky-Purswani/Lucky-Purswani/output/snake.svg" alt="snake gif"/>
+  <img src="https://raw.githubusercontent.com/Lucky-Purswani/Lucky-Purswani/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
