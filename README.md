@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=300&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lucky+Purswani!;MERN+Stack+Developer+🌐;MongoDB%2C+React%2C+Node+JS;Lifelong+Learner+📚" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=300&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lucky+Purswani!;MERN+Stack+Developer+🌐;AI+%26+Data+Science+Explorer+🤖;MongoDB%2C+React%2C+Node+JS;Lifelong+Learner+📚" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
+
 
 
 ---
