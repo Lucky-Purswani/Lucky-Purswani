@@ -4,9 +4,11 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=300&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lucky+Purswani!;MERN+Stack+Developer+🌐;AI+%26+Data+Science+Explorer+🤖;MongoDB%2C+React%2C+Node+JS;Lifelong+Learner+📚" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=300&color=BF40BF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lucky+Purswani!;MERN+Stack+Developer+🌐;AI+%26+Data+Science+Enthusiast+🤖;MongoDB%2C+React%2C+Node+JS;Lifelong+Learner+📚" alt="Typing SVG"/>
   </a>
 </p>
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/luckypurswani) 
