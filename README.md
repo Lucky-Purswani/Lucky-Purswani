@@ -28,8 +28,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Lucky-Purswani&theme=nightowl&hide_border=false)<br/>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Lucky-Purswani&label=Visitors&color=0e75b6&style=plastic" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Lucky-Purswani&label=👁️‍🗨️%20Profile%20Views&color=7209B7&style=for-the-badge" alt="Profile views" />
 </p>
+
 
 
 ---
