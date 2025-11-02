@@ -27,15 +27,25 @@
 ![](https://github-readme-stats.vercel.app/api?username=Lucky-Purswani&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Lucky-Purswani&theme=nightowl&hide_border=false)<br/>
 
-## 📊 GitHub Activity Graph
 
-<p align="center">
+---
+
+### ⚡ GitHub Activity Graph:
+
+<div align="center" style="position: relative; display: inline-block; width: 100%;">
+
+  <!-- Graph -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Lucky-Purswani&theme=react-dark"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Lucky-Purswani&theme=tokyo-night"
     alt="GitHub Activity Graph"
     width="100%"
+    style="border-radius: 10px; box-shadow: 0 0 15px #7f5af0; animation: glow 2s ease-in-out infinite alternate;"
   />
-</p>
+
+</div>
+
+---
+
 
 ## 🏆 Most Used Languages:
 <p align="center">
