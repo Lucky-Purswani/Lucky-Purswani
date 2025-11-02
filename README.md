@@ -27,6 +27,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=Lucky-Purswani&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Lucky-Purswani&theme=nightowl&hide_border=false)<br/>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Lucky-Purswani&label=Visitors&color=0e75b6&style=plastic" alt="Profile views" />
+</p>
+
 
 ---
 
@@ -72,4 +76,5 @@
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Lucky-Purswani/Lucky-Purswani/main/wave.svg" alt="wave animation" width="100%" />
 </p> -->
+
 
