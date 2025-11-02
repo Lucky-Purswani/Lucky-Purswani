@@ -47,3 +47,8 @@
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Wave Animation Footer -->
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/Lucky-Purswani/Lucky-Purswani/main/wave.svg" alt="wave animation" width="100%" />
+</p> -->
+
