@@ -80,7 +80,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Wave Animation Footer -->
 ## 💬 Join the Discussion
-I’ve started a conversation on improving READMEs — come share your ideas or check out others’ thoughts:  
+I’ve started a discussion around tools that automate syncing LeetCode progress to GitHub:
 👉 [View the Discussion](https://github.com/Lucky-Purswani/Lucky-Purswani/discussions/4)
 
 
