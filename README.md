@@ -81,7 +81,7 @@
 <!-- Wave Animation Footer -->
 ## 💬 Join the Discussion
 I’ve started a conversation on improving READMEs — come share your ideas or check out others’ thoughts:  
-👉 [View the Discussion](https://github.com/Lucky-Purswani/Lucky-Purswani/discussions)
+👉 [View the Discussion](https://github.com/Lucky-Purswani/Lucky-Purswani/discussions/4)
 
 
  <p align="center">
