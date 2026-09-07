@@ -40,7 +40,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=Lucky-Purswani&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Lucky-Purswani&theme=nightowl&hide_border=false)<br/>
 -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucky-Purswani&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img
+    width="90%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Lucky-Purswani&theme=tokyonight&ring=7209B7&fire=FF6BD6&currStreakLabel=ffffff&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+</p>
 
 
 
